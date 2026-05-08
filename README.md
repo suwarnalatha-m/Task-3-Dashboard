@@ -21,11 +21,7 @@ The dashboard provides:
 
 ---
 
-## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
-
----
 
 ## Features
 - Interactive dashboard
